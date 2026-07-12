@@ -1,7 +1,10 @@
 ## Hi there 👋
+I'am currently studying Computer Science in my High School(senior)
+Currently learning Python and studying AI concepts
+Looking for opportunities to grow my profile and looking out for projects related to AI, Data Science etc to work on.
 
 <!--
-**Haiderworks/Haiderworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Haiderworks/Haiorksrks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
