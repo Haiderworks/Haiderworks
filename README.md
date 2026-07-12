@@ -1,19 +1,22 @@
-## Hi there 👋
-I'am currently studying Computer Science in my High School(senior)
-Currently learning Python and studying AI concepts
-Looking for opportunities to grow my profile and looking out for projects related to AI, Data Science etc to work on.
+# Hi, I'm Haider 👋
 
-<!--
-**Haiderworks/Haiorksrks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 ICS Student
+- 🐍 Currently learning Python for AI , Data science etc.
+- 💻 Building projects to improve my programming skills
+- 🤖 Looking for opportunities to grow my profile and develop my skills.
+- 📖 Learning something new every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- Python
+- Git
+- GitHub
+- VS Code
+- SQL
+## 🎯 Goals
+
+- Build real-world projects
+- Contribute to open source
+- Land a AI internship
