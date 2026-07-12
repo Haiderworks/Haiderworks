@@ -7,14 +7,7 @@
 - 💻 Building projects to improve my programming skills
 - 🤖 Looking for opportunities to grow my profile and develop my skills.
 - 📖 Learning something new every day
-
-## 🛠️ Technologies
-
-- Python
-- Git
-- GitHub
-- VS Code
-- SQL
+- 
 ## 🎯 Goals
 
 - Build real-world projects
